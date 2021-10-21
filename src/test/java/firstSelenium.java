@@ -11,6 +11,12 @@ import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
+
+/**
+ * Практическое задание 1
+ */
+
+
 public class firstSelenium {
     WebDriver driver;
     String baseUrl;
